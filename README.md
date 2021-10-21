@@ -1,6 +1,6 @@
 ## WhatsApp s-g-u-m-a-r-a-n bot
 
-<img border-radius: 15px src="https://user-images.githubusercontent.https://i.imgur.com/ILlofm6.mp4" width="200" height="200"/>
+
 
 
 This is a Userbot based on WhatsAsena written by [A-J-M-A-L](https://github.com/Ajmal342/s-g-u-m-a-r-a-n)
