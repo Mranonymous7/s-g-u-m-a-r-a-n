@@ -109,5 +109,5 @@ This is a Userbot based on WhatsAsena written by [MR ANONYMOUS](https://github.c
 
 ## Thanks To MR ANONYMOUS
 
-- [MR ANONYMOUS](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
-- [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
+- [MR ANONYMOUS](https://github.com/Quiec) for [coding WhatsAsena](https://github.com/yusufusta/WhatsAsena)
+
