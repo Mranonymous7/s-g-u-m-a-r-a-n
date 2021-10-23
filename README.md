@@ -3,11 +3,11 @@
 
 
 
-This is a Userbot based on WhatsAsena written by [A-J-M-A-L](https://github.com/Ajmal342/s-g-u-m-a-r-a-n)
+This is a Userbot based on WhatsAsena written by [MR ANONYMOUS](https://github.com/Mranonymous7)
 
 ## What is WhatsAsena?
 
-**WhatsAsena,** is a WhatsApp bot written by [A-J-M-A-L](https://github.com/Ajmal342/s-g-u-m-a-r-a-n). Does not log into your account It is written on WhatsApp Web API.
+**WhatsAsena,** is a WhatsApp bot written by [MR ANONYMOUS](https://github.com/Mranonymous7). Does not log into your account It is written on WhatsApp Web API.
 
 ## Setup
 
@@ -107,7 +107,7 @@ This is a Userbot based on WhatsAsena written by [A-J-M-A-L](https://github.com/
 |   ✔️   | Block/unblock     | Blocks/unblocks members      |
 |   ✔️   | Broadcast         | Custom Broadcasting Messages |
 
-## Thanks To
+## Thanks To MR ANONYMOUS
 
-- [A-J-M-A-L](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
+- [MR ANONYMOUS](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
 - [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
