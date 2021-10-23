@@ -1,4 +1,4 @@
-## WhatsApp s-g-u-m-a-r-a-n bot
+## CODED BY MR ANONYMOUS TO MAKE IT PRIVATE
 
 
 
