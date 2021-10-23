@@ -11,10 +11,10 @@ This is a Userbot based on WhatsAsena written by [MR ANONYMOUS](https://github.c
 
 ## Setup
 
-1. Click [SCAN](https://replit.com/@GAMING-WITHWI40/A-J-M-A-L#index.js) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
-2. You will get a long text that needs after 4th step (ASENA_SESSION).
+1. Click [SCAN](https://replit.com/@GAMING-WIindex.js) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
+2. You will get a long text that n after 4th step (ASENA_SESSION).
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
-4. Now click [DEPLOY](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot) and Follow.
+4. Now click [DEPLOY](https://heroku.com/depls://github.com/lyfe00011/whatsapp-bot) and Follow.
    <br>
    <a href="https://youtube.com/channel/UCCKhIxVChqoEvfO6CrF_LfA"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
    <br>
