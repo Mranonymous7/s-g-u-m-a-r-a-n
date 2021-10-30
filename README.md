@@ -26,7 +26,7 @@ This is a Userbot based on WhatsAsena written by [MR ANONYMOUS](https://github.c
 [![Run on Repl.it](https://replit.com/@GAMING-WITHWI40/A-J-M-A-L#index.js)](https://replit.com/@GAMING-WITHWI40/A-J-M-A-L#index.js)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajmal342/s-g-u-m-a-r-a-n) -->
-
+FOR A COLLAB WITH TOM CUTZ
 | Active | Group commands |
 | :----: | :------------- |
 |   ✔️   | Kick           |
