@@ -7,9 +7,9 @@ This is a Userbot based on WhatsAsena written by [MR ANONYMOUS](https://github.c
 
 ## What is WhatsAsena?
 
-**WhatsAsena,** is a WhatsApp bot written by [MR ANONYMOUS](https://github.com/Mranonymous7). Does not log into your account It is written on WhatsApp Web API.
+**WhatsAsena,** is a WhatsApp bot written by [MR ANONYMOUS]FOR tomcutz(https://github.com/Mranonymous7). Does not log into your account It is written on WhatsApp Web API.
 
-## Setup
+## Set up
 
 1. Click [SCAN](https://replit.com/@GAMING-WIindex.js) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
 2. You will get a long text that n after 4th step (ASENA_SESSION).
